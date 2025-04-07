@@ -1,0 +1,27 @@
+{
+    "id": "A43350B3",
+    "path": "G:/Meu Drive/PORTO DO RECIFE/REGIMES DE CHUVAS - PORTO DO RECIFE/R_ip.pe/Regime_de_Chuvar_Recife/CHUVAS_SARIMA_SMC2_R.R",
+    "project_path": "CHUVAS_SARIMA_SMC2_R.R",
+    "type": "r_source",
+    "hash": "1203987704",
+    "contents": "",
+    "dirty": false,
+    "created": 1735001023222.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "17,0",
+        "scrollLine": "4"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1735054673,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1735054673770,
+    "read_only": false,
+    "read_only_alternatives": []
+}

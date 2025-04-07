@@ -1,0 +1,25 @@
+# Correlação entre as Movimentações e o Regime de Chuvas
+
+# Pacotes
+if(!require(corrplot))install.packages("corrplot")
+library(corrplot)
+if(!require(PerformanceAnalytics))install.packages("PerformanceAnalytics")
+library(PerformanceAnalytics)
+if(!require(tidyverse))install.packages("tidyverse")
+library(tidyverse)
+##
+##
+if(!require(plyr))install.packages("plyr")
+library(plyr)
+
+# Dados
+dados <- read.xlsx("ip.pernambuco.xlsx", sheet = "correlacao")
+dados
+str(dados)
+
+# Correlação
+
+m<-dados[,2:5]
+m
+chart.Correlation(m,histogram=T)
+
